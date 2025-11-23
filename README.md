@@ -5,6 +5,11 @@ Made to practice web development, layout designing, and improve UI skills.
 
 ---
 
+## 🌐 Live Demo
+https://prayanshpastor.github.io/Swiggy-ui-clone/
+
+---
+
 ## 🛠 Tech Used
 - HTML
 - CSS
