@@ -9,7 +9,7 @@ Made to practice web development, layout designing, and improve UI skills.
 - HTML
 - CSS
 - JavaScript
-- 
+  
 ---
 
 ## 📌 Project Goal
