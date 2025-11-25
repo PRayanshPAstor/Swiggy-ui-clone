@@ -38,5 +38,5 @@ Suggestions & improvements are welcome!
 ---
 
 ## 🧑‍💻 Author
-**Prayansh Pastor**
+**PRayansh PAstor**
 
