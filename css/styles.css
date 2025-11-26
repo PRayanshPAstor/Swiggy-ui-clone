@@ -59,7 +59,7 @@ header ul li a:hover {
 .app-dropdown {
   display: none;
   width: 100%;
-  padding: 15px 0;
+  padding: 20px 0;
   background: transparent;
   text-align: center;
   position: relative;
@@ -68,8 +68,8 @@ header ul li a:hover {
 }
 
 .app-dropdown img {
-  width: 100%;
-  max-width: 300px;
+  width: 90%;
+  max-width: 600px;
   height: auto;
 }
 
