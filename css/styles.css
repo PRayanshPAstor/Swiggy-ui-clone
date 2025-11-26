@@ -178,7 +178,7 @@ footer {
   text-align: center;
   padding: 20px;
   font-size: 0.9rem;
-  background: rgba(0, 0, 0, 0.7);
+  background: transparent;
 }
 
 /* Fade animation */
