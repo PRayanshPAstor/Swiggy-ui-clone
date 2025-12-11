@@ -1,7 +1,6 @@
-# Swiggy UI Clone — Practice Project
+## Swiggy UI Clone
 
-This is a front-end UI clone inspired by Swiggy’s homepage, built using **HTML, CSS, and JavaScript**.  
-Made to practice web development, layout designing, and improve UI skills.
+A responsive **Swiggy-inspired UI clone** built to practice modern frontend design and layout implementation using **HTML, CSS, and JavaScript**. This project demonstrates a clean, user-friendly interface similar to the Swiggy homepage.
 
 ---
 
@@ -10,11 +9,28 @@ https://prayanshpastor.github.io/Swiggy-ui-clone/
 
 ---
 
+## 🔹 Features
+- Pixel-perfect UI inspired by Swiggy's homepage
+- Fully responsive layout for desktop and mobile
+- Interactive buttons and hover effects
+- Modern HTML/CSS structure with JavaScript enhancements
+
+---
+
 ## 🛠 Tech Used
 - HTML
 - CSS
 - JavaScript
   
+---
+
+## 🔹 How to Run Locally
+1. Clone the repository:
+```bash
+git clone https://github.com/PRayanshPAstor/Swiggy-ui-clone.git
+
+2. Open index.html in your browser
+
 ---
 
 ## 📌 Project Goal
